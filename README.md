@@ -112,6 +112,25 @@ Ask questions like:
 AI provides structured explanations and recommendations.
 
 ---
+## 📊 How It Works
+
+1. Load customer credit dataset  
+2. Calculate risk score using custom algorithm  
+3. Analyze risk using AI  
+4. Visualize risk in dashboard  
+5. Simulate loan approval decision  
+
+---
+
+## 🏦 Real-World Impact
+
+This system can help:
+
+- Banks reduce loan defaults
+- Fintech companies automate risk analysis
+- Credit agencies improve decision making
+
+---
 
 ## 🏗️ System Architecture
 
